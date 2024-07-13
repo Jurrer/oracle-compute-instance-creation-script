@@ -97,7 +97,7 @@ const currentTime = () => {
 };
 
 //you can change this on the fly if you want
-let INTERVAL_DURATION = 30;
+let INTERVAL_DURATION = 14;
 
 const countdownDuration = () => Math.round(INTERVAL_DURATION);
 
